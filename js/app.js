@@ -1,5 +1,9 @@
 /* Songkhla Food Guide - app.js */
 
+import { injectSpeedInsights } from '@vercel/speed-insights';
+
+injectSpeedInsights();
+
 // Debug marker (helps confirm the browser actually loaded the latest file)
 console.log("[SGF] app.js loaded (v4 category+favorite fix)");
 
