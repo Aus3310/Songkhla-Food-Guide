@@ -1,4 +1,4 @@
-/* Songkhla Guide Food - app.js */
+/* Songkhla Food Guide - app.js */
 
 // Debug marker (helps confirm the browser actually loaded the latest file)
 console.log("[SGF] app.js loaded (v4 category+favorite fix)");
