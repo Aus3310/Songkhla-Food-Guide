@@ -361,7 +361,30 @@ function renderCards(list) {
   const userRates = getRatings();
 
   list.forEach(r => {
-    const d = r[lang];
+    // prefer current lang but fall back to the other; merge images too
+    const en = r.en || {};
+    const th = r.th || {};
+    const primary = r[lang] || {};
+    const secondary = lang === "en" ? th : en;
+    const d = {
+      ...secondary,
+      ...primary,
+      images: { ...(secondary.images || {}), ...(primary.images || {}) }
+    };
+
+    // If cover is exactly "/images/placeholder" or "/images/placeholder/" treat as missing.
+    const isPlaceholderOnly = v => !v || v === "/images/placeholder" || v === "/images/placeholder/";
+    const primaryCover = primary.images?.cover || "";
+    const secondaryCover = secondary.images?.cover || "";
+
+    if (isPlaceholderOnly(primaryCover) && !isPlaceholderOnly(secondaryCover)) {
+      d.images.cover = secondaryCover;
+    } else if (!isPlaceholderOnly(primaryCover)) {
+      d.images.cover = primaryCover;
+    } else {
+      // both missing or both only placeholder => empty
+      d.images.cover = "";
+    }
     const isFav = favs.has(r.id);
     const rating = userRates[r.id] || Math.round(r.rating || 4);
 
@@ -451,8 +474,37 @@ function closeDetailModal() {
 function renderDetail(id) {
   const r = restaurants.find(x => x.id === id);
   if (!r) return;
-  const d = r[lang];
 
+  // prefer current lang but fall back to the other; merge images too (same as renderCards)
+  const en = r.en || {};
+  const th = r.th || {};
+  const primary = r[lang] || {};
+  const secondary = lang === "en" ? th : en;
+
+  const d = {
+    ...secondary,
+    ...primary,
+    images: { ...(secondary.images || {}), ...(primary.images || {}) }
+  };
+
+  // cover fallback: "/images/placeholder" or "/images/placeholder/" treat as missing
+  const isPlaceholderOnly = (v) => {
+    const s = (v || "").toString().trim();
+    return !s || s === "/images/placeholder" || s === "/images/placeholder/";
+  };
+
+  const primaryCover = (primary.images?.cover || "").trim();
+  const secondaryCover = (secondary.images?.cover || "").trim();
+
+  if (isPlaceholderOnly(primaryCover) && !isPlaceholderOnly(secondaryCover)) {
+    d.images.cover = secondaryCover;
+  } else if (!isPlaceholderOnly(primaryCover)) {
+    d.images.cover = primaryCover;
+  } else {
+    d.images.cover = "";
+  }
+
+  // basic fields (now will fall back automatically because d is merged)
   detailName.textContent = d.name || "";
   detailCat.textContent = d.catagorie || "";
   detailCover.src = d.images?.cover || "";
@@ -462,13 +514,23 @@ function renderDetail(id) {
   detailPhone.textContent = d.phone || (lang === "en" ? "Not available" : "ไม่ระบุ");
   detailAddress.textContent = d.address || (lang === "en" ? "Not available" : "ไม่ระบุ");
 
-  // foods
+  // foods (fallback like cover: treat "/images/placeholder" or "/images/placeholder/" as missing,
+  // but allow "/images/placeholder/xxx.jpg")
   detailFoods.innerHTML = "";
-  const foods = d.images?.foods || [];
-  if (!foods.length) {
+
+  const cleanFoods = (arr = []) =>
+    (arr || [])
+      .map(x => (x || "").toString().trim())
+      .filter(src => !isPlaceholderOnly(src));
+
+  const primaryFoods = cleanFoods(primary.images?.foods);
+  const secondaryFoods = cleanFoods(secondary.images?.foods);
+  const foodsFinal = primaryFoods.length ? primaryFoods : secondaryFoods;
+
+  if (!foodsFinal.length) {
     detailFoods.innerHTML = `<div class="text-sm text-white/60">${lang === "en" ? "No photos" : "ไม่มีรูป"}</div>`;
   } else {
-    foods.slice(0, 2).forEach(src => {
+    foodsFinal.slice(0, 2).forEach(src => {
       const img = document.createElement("img");
       img.src = src;
       img.alt = "food";
@@ -482,12 +544,12 @@ function renderDetail(id) {
   (d.recommands || []).forEach(item => {
     const li = document.createElement("li");
     li.className = "glass rounded-2xl p-3 border border-white/10";
-    const primary = lang === "en" ? item.en : item.th;
-    const secondary = lang === "en" ? item.th : item.en;
+    const primaryTxt = lang === "en" ? item.en : item.th;
+    const secondaryTxt = lang === "en" ? item.th : item.en;
 
     li.innerHTML = `
-      <div class="text-sm">${primary || ""}</div>
-      <div class="text-xs text-white/60 mt-1">${secondary || ""}</div>
+      <div class="text-sm">${primaryTxt || ""}</div>
+      <div class="text-xs text-white/60 mt-1">${secondaryTxt || ""}</div>
     `;
     detailRecs.appendChild(li);
   });
@@ -507,31 +569,30 @@ function renderDetail(id) {
     detailTags.appendChild(chip);
   });
 
-// map (fallback: ถ้า en ไม่มี ให้ไปเอา th / ถ้า th ไม่มี ให้ไปเอา en)
-mapBox.innerHTML = "";
+  // map (fallback: ถ้า en ไม่มี ให้ไปเอา th / ถ้า th ไม่มี ให้ไปเอา en)
+  mapBox.innerHTML = "";
 
-const embedVal =
-  (d.embed || "").trim() ||
-  ((r.th?.embed || "").trim()) ||
-  ((r.en?.embed || "").trim());
+  const embedVal =
+    (d.embed || "").trim() ||
+    ((r.th?.embed || "").trim()) ||
+    ((r.en?.embed || "").trim());
 
-if (!embedVal) {
-  mapBox.textContent = lang === "en" ? "No map" : "ไม่มีแผนที่";
-} else if (embedVal.startsWith("http")) {
-  mapBox.innerHTML = `<iframe src="${embedVal}" width="100%" height="260" style="border:0;" loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"></iframe>`;
-} else {
-  mapBox.innerHTML = embedVal; // เผื่อบางร้านยังใส่ iframe เต็ม
-}
-
+  if (!embedVal) {
+    mapBox.textContent = lang === "en" ? "No map" : "ไม่มีแผนที่";
+  } else if (embedVal.startsWith("http")) {
+    mapBox.innerHTML = `<iframe src="${embedVal}" width="100%" height="260" style="border:0;" loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"></iframe>`;
+  } else {
+    mapBox.innerHTML = embedVal; // เผื่อบางร้านยังใส่ iframe เต็ม
+  }
 
   // favorite button
   paintDetailFavoriteButton(r.id);
   detailFavBtn.onclick = () => toggleFavorite(r.id);
 
-  // open map new tab: if embed is iframe, try extract src; else open google map by address
+  // open map new tab: use embedVal (fallback already)
   openMapNewTab.onclick = () => {
-    const iframeMatch = (d.embed || "").match(/src="([^"]+)"/i);
+    const iframeMatch = embedVal.match(/src="([^"]+)"/i);
     const url = iframeMatch?.[1] || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(d.address || d.name)}`;
     window.open(url, "_blank");
   };
