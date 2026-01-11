@@ -76,13 +76,13 @@
       "phone": "081-099-7888",
       "hours": "ทุกวัน 11:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-pa-yang.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-pa-yang-1.jpg",
+          "/images/placeholder/food-pa-yang-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3645.501516522046!2d100.4896539!3d7.0050916999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d29b22eb89bbb%3A0x2249a62657b66d5!2z4Lij4LmJ4Liy4LiZ4Lit4Liy4Lir4Liy4Lij4Lib4LmI4Liy4Lii4Liy4LiH!5e1!3m2!1sth!2sth!4v1768108772731!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -142,13 +142,13 @@
       "phone": "082-656-9478",
       "hours": "ทุกวัน 10:00–22:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-je-lek-line-2.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-je-lek-line-2-1.jpg",
+          "/images/placeholder/food-je-lek-line-2-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3645.5356418034016!2d100.47074669999999!3d7.0007254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d284658d4d9b9%3A0x1b5546fe38e71dda!2z4Lij4LmJ4Liy4LiZ4Lit4Liy4Lir4Liy4Lij4LmE4LiX4Lii4LmA4LiI4LmK4LmA4Lil4LmH4LiBIOC4quC4suC4ojI!5e1!3m2!1sth!2sth!4v1768109018284!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -179,7 +179,7 @@
           "/images/placeholder/"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4960.403518267146!2d100.47074669999999!3d7.0007254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d284658d4d9b9%3A0x1b5546fe38e71dda!2z4Lij4LmJ4Liy4LiZ4Lit4Liy4Lir4Liy4Lij4LmE4LiX4Lii4LmA4LiI4LmK4LmA4Lil4LmH4LiBIOC4quC4suC4ojI!5e1!3m2!1sth!2sth!4v1768111967570!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -208,13 +208,13 @@
       "phone": "074-255-564",
       "hours": "ทุกวัน 11:00–22:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-sawa.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-sawa-1.jpg",
+          "/images/placeholder/food-sawa-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4924.942383886177!2d100.40366309999999!3d6.9404629999999985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304cd9f5a1bd02f9%3A0xdf00135e0a5c08ed!2z4Liq4Liw4Lir4Lin4LiyIChTYXdhIFJlc3RhdXJhbnQp!5e1!3m2!1sth!2sth!4v1768112385230!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -274,13 +274,13 @@
       "phone": "074-246-138",
       "hours": "ทุกวัน 10:30–14:00 และ 17:00–20:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-kan-eng.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-kan-eng-1.jpg",
+          "/images/placeholder/food-kan-eng-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2521233.30495947!2d100.4732622!3d7.0031229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30527ff95010a0d3%3A0x20ca1f82f010ab05!2z4LiL4Lit4Lii4LiB4Lix4LiZ4LmA4Lit4LiHIOC4leC4s-C4muC4pSDguJXguLDguYHguJ7guJkg4Lit4Liz4LmA4Lig4LitIOC4qOC4o-C4teC4muC4o-C4o-C4nuC4lSDguJ7guLHguJfguKXguLjguIcgOTMxOTA!5e1!3m2!1sth!2sth!4v1768112487019!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -340,13 +340,13 @@
       "phone": "088-914-6636",
       "hours": "ทุกวัน 16:30–00:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-bang-lamphu.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-bang-lamphu-1.jpg",
+          "/images/placeholder/food-bang-lamphu-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d520.6592727119164!2d100.59327563707656!3d7.174975528491234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMTAnMjkuNiJOIDEwMMKwMzUnMzUuNyJF!5e1!3m2!1sth!2sth!4v1768113949016!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -406,10 +406,10 @@
       "phone": "064-038-0690",
       "hours": "09:00–21:00 (ปิดวันพุธ)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-view-le-suan-ahan-view-le.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-view-le-suan-ahan-view-le-1.jpg",
+          "/images/placeholder/food-view-le-suan-ahan-view-le-2.jpg"
         ]
       },
       "embed": "",
@@ -472,13 +472,13 @@
       "phone": "091-444-9161",
       "hours": "ทุกวัน 10:00–22:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-monthathip-seafood.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-monthathip-seafood-1.jpg",
+          "/images/placeholder/food-monthathip-seafood-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4952.9517998633755!2d100.591571!3d7.213637599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33692e22cc87%3A0x4e46233434b8e32f!2z4Lij4LmJ4Liy4LiZ4Lit4Liy4Lir4Liy4Lij4Lih4LiT4LiR4Liy4LiX4Li04Lie4Lii4LmM!5e1!3m2!1sth!2sth!4v1768115234564!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -538,13 +538,13 @@
       "phone": "082-179-9709",
       "hours": "ทุกวัน 10:00–22:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-nam-kiang-din-koh-yo.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-nam-kiang-din-koh-yo-1.jpg",
+          "/images/placeholder/food-nam-kiang-din-koh-yo-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d86424.45283050738!2d100.51261280635062!3d7.1887818820491844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d3230f1c1b577%3A0xeb3e9d51b5a05976!2z4Lij4LmJ4Liy4LiZ4Lit4Liy4Lir4Liy4Lij4LiZ4LmJ4Liz4LmA4LiE4Li14Lii4LiH4LiU4Li04LiZ!5e1!3m2!1sth!2sth!4v1768115347237!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -604,13 +604,13 @@
       "phone": "082-665-4226",
       "hours": "ทุกวัน 08:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-krua-yok-yo-khuan-niang.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-krua-yok-yo-khuan-niang-1.jpg",
+          "/images/placeholder/food-krua-yok-yo-khuan-niang-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4952.266474651014!2d100.383579!3d7.2760048999999976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d3bd2a2b5a6ed%3A0x87a99a0350207c63!2z4LiE4Lij4Lix4Lin4Lii4LiB4Lii4LitIOC4hOC4p-C4meC5gOC4meC4teC4ouC4hw!5e1!3m2!1sth!2sth!4v1768115381106!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -670,13 +670,13 @@
       "phone": "082-659-6444",
       "hours": "ทุกวัน 10:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-nang-rim-lay-seafood.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-nang-rim-lay-seafood-1.jpg",
+          "/images/placeholder/food-nang-rim-lay-seafood-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4946.880398371652!2d100.37626279999999!3d7.748796800000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3052a5a266d494bb%3A0x8feb6ef23189d903!2z4LiZ4Lix4LmI4LiH4Lij4Li04Lih4LmA4LilIFNlYWZvb2Q!5e1!3m2!1sth!2sth!4v1768115406298!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -736,13 +736,13 @@
       "phone": "087-109-8777",
       "hours": "ทุกวัน 11:00–22:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-bankampu-hatyai.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-bankampu-hatyai-1.jpg",
+          "/images/placeholder/food-bankampu-hatyai-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.23128948539!2d100.4754507!3d7.002220899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d28488ed3a9a5%3A0xf984613c677f7f!2z4Lia4LmJ4Liy4LiZ4LiB4LmJ4Liy4Lih4Lib4Li54oCLIOC4q-C4suC4lOC5g-C4q-C4jeC5iA!5e1!3m2!1sth!2sth!4v1768115426756!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -802,13 +802,13 @@
       "phone": "061-320-5877",
       "hours": "ทุกวัน 10:30–20:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-na-wang-nao-camping-and-seafood.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-na-wang-nao-camping-and-seafood-1.jpg",
+          "/images/placeholder/food-na-wang-nao-camping-and-seafood-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4954.923713348694!2d100.7238558!3d7.0311169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31b2d7d726a7e3ff%3A0x6626fb8469945f0d!2z4Lij4LmJ4Liy4LiZIOC4kyDguKfguLHguIfguKvguJnguLLguKcgTmEgd2FuZ25vdw!5e1!3m2!1sth!2sth!4v1768115443006!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -868,13 +868,13 @@
       "phone": "",
       "hours": "ทุกวัน 10:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-duen-tem-duang-seafood.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-duen-tem-duang-seafood-1.jpg",
+          "/images/placeholder/food-duen-tem-duang-seafood-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d610.6623676892254!2d102.7893434133915!3d11.893087315856272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTHCsDUzJzM1LjEiTiAxMDLCsDQ3JzIyLjIiRQ!5e1!3m2!1sth!2sth!4v1768115475363!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -934,13 +934,13 @@
       "phone": "089-464-4333",
       "hours": "ทุกวัน 10:00–21:30",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-ar-restaurant-a-r.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-ar-restaurant-a-r-1.jpg",
+          "/images/placeholder/food-ar-restaurant-a-r-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.181350543511!2d100.46963679999999!3d7.0069206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d2844dcbaa891%3A0xb9268c2de864e027!2z4Lit4LmJ4Liy!5e1!3m2!1sth!2sth!4v1768115503302!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1000,13 +1000,13 @@
       "phone": "081-898-7656",
       "hours": "ทุกวัน 11:00–20:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-nai-roo-in-the-hole.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-nai-roo-in-the-hole-1.jpg",
+          "/images/placeholder/food-nai-roo-in-the-hole-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.156241504967!2d100.47049539999999!3d7.009282399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d285b1e3e4735%3A0x5f2f6a57dca42e22!2z4LmD4LiZ4Lij4Li5!5e1!3m2!1sth!2sth!4v1768115521692!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1066,13 +1066,13 @@
       "phone": "094-624-4562",
       "hours": "ทุกวัน 11:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-khao-tom-rod-daeng-red-truck-congee.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-khao-tom-rod-daeng-red-truck-congee-1.jpg",
+          "/images/placeholder/food-khao-tom-rod-daeng-red-truck-congee-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.165203606191!2d100.46364039678951!3d7.008439499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d2997f3acc667%3A0x1923e2db81a7fd9a!2z4LiC4LmJ4Liy4Lin4LiV4LmJ4Lih4Lij4LiW4LmB4LiU4LiHIOC4quC4suC4guC4siAy!5e1!3m2!1sth!2sth!4v1768115556401!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1132,13 +1132,13 @@
       "phone": "081-897-9307",
       "hours": "ทุกวัน 09:00–17:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-je-ni-fish-congee.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-je-ni-fish-congee-1.jpg",
+          "/images/placeholder/food-je-ni-fish-congee-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9906.244884290594!2d100.57940049357912!3d7.198024900000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d3310f810bf67%3A0x6af91039a94a76ab!2z4Lij4LmJ4Liy4LiZ4LmA4LiI4LmK4LiZ4Li0IOC4quC4suC4guC4suC5guC4o-C4h-C4quC4teC5geC4lOC4hyBKZW5pIFJlc3RhdXJhbnQoUm9uZ3NpZGFlbmcgYnJhbmNoKSDlpq7lp5DppJDljoU!5e1!3m2!1sth!2sth!4v1768115919850!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1198,13 +1198,13 @@
       "phone": "074-311-505",
       "hours": "ทุกวัน 11:30–14:00 และ 17:00–20:00 (ปิดวันพุธ)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-tae-hiang-iu-restaurant.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-tae-hiang-iu-restaurant-1.jpg",
+          "/images/placeholder/food-tae-hiang-iu-restaurant-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4953.146166523179!2d100.5905822!3d7.195851599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d331a0878c343%3A0x1a1b754991f57def!2z4LmB4LiV4LmJ4LmA4Liu4Li14LmJ4Lii4LiH4Lit4Li04LmJ4LinIOmEreeNu-eMtw!5e1!3m2!1sth!2sth!4v1768115950923!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1264,13 +1264,13 @@
       "phone": "",
       "hours": "กลางวัน–เย็น (กรุณาตรวจสอบ)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-pratana-pochana-tien-tien-lai.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-pratana-pochana-tien-tien-lai-1.jpg",
+          "/images/placeholder/food-pratana-pochana-tien-tien-lai-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.355445365126!2d100.47955689999999!3d6.9905231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d28377e39193b%3A0x889a5bb7baaf352d!2z4LmA4LiX4Li14Lii4LiZIOC5gOC4l-C4teC4ouC4mSDguYTguKvguKUg4Lir4Liy4LiU4LmD4Lir4LiN4LmIKOC4m-C4o-C4suC4o-C4luC4meC4siDguYLguKDguIrguJnguLIp!5e1!3m2!1sth!2sth!4v1768115972569!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1330,13 +1330,13 @@
       "phone": "",
       "hours": "ประมาณ 11:00–22:00 (กรุณาตรวจสอบ)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-the-basil-mediterranean-restaurant.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-the-basil-mediterranean-restaurant-1.jpg",
+          "/images/placeholder/food-the-basil-mediterranean-restaurant-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.24691133464!2d100.492214!3d7.000750099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d29b6c302f865%3A0x548a63347aa80e9e!2z4Lij4LmJ4Liy4LiZ4Lit4Liy4Lir4Liy4LijIOC5gOC4lOC4reC4sCDguYDguJrguIvguLTguKU!5e1!3m2!1sth!2sth!4v1768116052647!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1396,13 +1396,13 @@
       "phone": "",
       "hours": "กรุณาตรวจสอบ",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-vela-beach-bar-and-restaurant.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-vela-beach-bar-and-restaurant-1.jpg",
+          "/images/placeholder/food-vela-beach-bar-and-restaurant-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4952.987584679884!2d100.59892529999999!3d7.2103663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33d12ba88145%3A0x348418f5e6b941a0!2sVella%20Beach%20Bar%20%26%20Bistro!5e1!3m2!1sth!2sth!4v1768116070931!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1462,13 +1462,13 @@
       "phone": "080-525-9623",
       "hours": "ทุกวัน 06:00–11:30 และ 17:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-chok-dee-taitiam-chok-dee-bak-kut-teh.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-chok-dee-taitiam-chok-dee-bak-kut-teh-1.jpg",
+          "/images/placeholder/food-chok-dee-taitiam-chok-dee-bak-kut-teh-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9910.469054268797!2d100.46693116977536!3d7.001916100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d284ed8d2857f%3A0x391166cee756d00e!2z4LmC4LiK4LiE4LiU4Li1IOC5geC4leC5iOC5gOC4leC4teC5ieC4ouC4oQ!5e1!3m2!1sth!2sth!4v1768116113346!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1528,13 +1528,13 @@
       "phone": "080-549-4478 / 081-098-3751",
       "hours": "10:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-kaithong-decha-fried-chicken.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-kaithong-decha-fried-chicken-1.jpg",
+          "/images/placeholder/food-kaithong-decha-fried-chicken-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d158561.76617738043!2d100.4184723!3d7.0187792!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d284f63ef9d85%3A0x2318ece53af55b2f!2z4LmE4LiB4LmI4LiX4Lit4LiU4LmA4LiU4LiK4LiyICjguJrguLHguIfguYDguKXguLLguLDguKvguYwpIOC4quC4suC4guC4suC4iuC4teC4reC4uOC4l-C4tOC4qA!5e1!3m2!1sth!2sth!4v1768116153849!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1588,23 +1588,34 @@
     "rating": null,
     "th": {
       "catagorie": "ร้านอาหารนานาชาติ และอื่นๆ",
-      "name": "",
-      "description": "",
-      "address": "",
-      "phone": "",
-      "hours": "",
+      "name": "ราดหน้าโกชล (ชิเซียง)",
+      "description": "ร้านราดหน้าชื่อดังใกล้ตลาดชิเซียง หาดใหญ่ — น้ำราดข้น หอมกลมกล่อม หมูนุ่ม",
+      "address": "226/16 ถนนศุภสารรังสรรค์ อำเภอหาดใหญ่ จังหวัดสงขลา 90110",
+      "phone": "074-233-555",
+      "hours": "ทุกวัน 10:30–00:00",
       "images": {
-        "cover": "/images/placeholder/",
-        "foods": []
+        "cover": "/images/placeholder/cover-rad-na-ko-chon-chi-chang.jpg",
+        "foods": [
+          "/images/placeholder/food-rad-na-ko-chon-chi-chang-1.jpg",
+          "/images/placeholder/food-rad-na-ko-chon-chi-chang-2.jpg"
+        ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.161906604787!2d100.47584239999999!3d7.008749600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d285036b403db%3A0xc8fe168b862ce265!2z4Lij4LmJ4Liy4LiZ4Lij4Liy4LiU4Lir4LiZ4LmJ4Liy4LmC4LiB4LiJ4LmI4Lit4LiZ!5e1!3m2!1sth!2sth!4v1768116182432!5m2!1sth!2sth",
       "recommands": [
         {
-          "th": "",
-          "en": ""
+          "th": "ราดหน้าหมู",
+          "en": "Pork rad na (stirred-gravy noodles)"
+        },
+        {
+          "th": "ผัดซีอิ๊วหมู",
+          "en": "Pork pad see ew"
         }
       ],
-      "tags": []
+      "tags": [
+        "ราดหน้า",
+        "ก๋วยเตี๋ยว",
+        "ย่านตลาด"
+      ]
     },
     "en": {
       "catagorie": "International & Others",
@@ -1614,21 +1625,21 @@
       "phone": "074-233-555",
       "hours": "Daily 10:30–00:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-rad-na-ko-chon-chi-chang.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-rad-na-ko-chon-chi-chang-1.jpg",
+          "/images/placeholder/food-rad-na-ko-chon-chi-chang-2.jpg"
         ]
       },
       "embed": "",
       "recommands": [
         {
-          "th": "",
-          "en": ""
+          "th": "ราดหน้าหมู",
+          "en": "Pork rad na (stirred-gravy noodles)"
         },
         {
-          "th": "",
-          "en": ""
+          "th": "ผัดซีอิ๊วหมู",
+          "en": "Pork pad see ew"
         }
       ],
       "tags": [
@@ -1649,13 +1660,13 @@
       "phone": "",
       "hours": "ทุกวัน 07:30–18:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-sunshine-blend-home-cafe.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-sunshine-blend-home-cafe-1.jpg",
+          "/images/placeholder/food-sunshine-blend-home-cafe-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4953.035604558777!2d100.5942547!3d7.2059742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d3357c50a3c43%3A0x2c9512cdddab6089!2sSunshine%20Blend%20Home%20Cafe!5e1!3m2!1sth!2sth!4v1768116204673!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1715,13 +1726,13 @@
       "phone": "093-639-2232",
       "hours": "ทุกวัน 09:00–18:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-22-twenty-two-cafe.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-22-twenty-two-cafe-1.jpg",
+          "/images/placeholder/food-22-twenty-two-cafe-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4953.013834619931!2d100.58798069999999!3d7.2079657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d3336c6d8c5bb%3A0x34afea6a597ff6ea!2s22%20Twenty%20Two%20Cafe&#39;!5e1!3m2!1sth!2sth!4v1768116226104!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1781,13 +1792,13 @@
       "phone": "081-275-2592",
       "hours": "จันทร์-ศุกร์ 10:00–18:00 (เสาร์-อาทิตย์/วันหยุดถึง 19:00)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-kongkang-cafe-koh-yo-mangrove-cafe.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-kongkang-cafe-koh-yo-mangrove-cafe-1.jpg",
+          "/images/placeholder/food-kongkang-cafe-koh-yo-mangrove-cafe-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2476.763563513877!2d100.53661987561357!3d7.1608633996600055!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33349c602621%3A0x66a20e37cde00318!2z4LmC4LiB4LiH4LiB4Liy4LiH4LiE4Liy4LmA4Lif4LmIIOC5gOC4geC4suC4sOC4ouC4rSBLb25na2FuZyBDYWZlIEtvaHlvcg!5e1!3m2!1sth!2sth!4v1768116272685!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1847,13 +1858,13 @@
       "phone": "083-243-9977",
       "hours": "ทุกวัน 09:30–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-lyns-the-shanghai-cafe.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-lyns-the-shanghai-cafe-1.jpg",
+          "/images/placeholder/food-lyns-the-shanghai-cafe-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4953.138540087072!2d100.58944509999999!3d7.196550299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33109adfe851%3A0x7a5834a2b5ab83d2!2sLyn&#39;s%20The%20Shanghai%20Cafe&#39;!5e1!3m2!1sth!2sth!4v1768116294341!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1913,13 +1924,13 @@
       "phone": "095-886-4266",
       "hours": "10:00–19:00 (ปิดวันพฤหัสบดี)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-space-bar-hatyai.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-space-bar-hatyai-1.jpg",
+          "/images/placeholder/food-space-bar-hatyai-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.104875616387!2d100.4888659!3d7.014111499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d29abc00a19fd%3A0x38dc64b82e9db5c6!2sSpace%20BAR!5e1!3m2!1sth!2sth!4v1768116310241!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -1979,13 +1990,13 @@
       "phone": "082-432-4649 / 062-056-4899",
       "hours": "ทุกวัน 07:00–18:00 (หยุดวันที่ 6 และ 20-21 ของทุกเดือน)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-nong-nil-charcoal-egg-cakes-and-cafe.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-nong-nil-charcoal-egg-cakes-and-cafe-1.jpg",
+          "/images/placeholder/food-nong-nil-charcoal-egg-cakes-and-cafe-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4955.158750873816!2d100.4765904!3d7.0090464!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d2977954c5929%3A0xc6971dedea74c581!2z4Lij4LmJ4Liy4LiZ4LiC4LiZ4Lih4LmE4LiC4LmI4LmA4LiV4Liy4LiW4LmI4Liy4LiZ4LiZ4LmJ4Lit4LiH4LiZ4Li04LilIOC4hOC4suC5gOC4n-C5iCDpuKHom4vns5U!5e1!3m2!1sth!2sth!4v1768116343935!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2041,17 +2052,17 @@
       "catagorie": "คาเฟ่และร้านของหวาน",
       "name": "ไอติมยิว (ถนนนางงาม)",
       "description": "ร้านไอศกรีมกะทิโบราณ เปิดมานานกว่า 80 ปี สูตรดั้งเดิม มีท็อปปิ้งหลากหลาย",
-      "address": "ตรงข้ามศาลเจ้าถนนนางงาม ต.บ่อยาง อ.เมืองสงขลา",
+      "address": "162 ถนนนางงาม ตำบลบ่อยาง อำเภอเมืองสงขลา สงขลา 90000",
       "phone": "",
       "hours": "ประมาณ 10:00–16:00 (ขายหมดก่อนปิด)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-yiu-ice-cream-nang-ngam-road.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-yiu-ice-cream-nang-ngam-road-1.jpg",
+          "/images/placeholder/food-yiu-ice-cream-nang-ngam-road-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d368.14542087702546!2d100.59094363214138!3d7.195075647500135!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d331a1b1fd669%3A0xee642ad86d5fe4be!2z4LiI4Li04LmI4LiZ4LiB4Lix4LmJ4Lin4Lir4Lii4Lin4LiZIOC5hOC4reC4leC4tOC4oeC4ouC4tOC4pzE2MuC4luC4meC4meC4meC4suC4h-C4h-C4suC4oSDguKLguYjguLLguJnguYDguKHguLfguK3guIfguYDguIHguYjguLIg4Liq4LiH4LiC4Lil4Liy!5e1!3m2!1sth!2sth!4v1768116484392!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2072,7 +2083,7 @@
       "catagorie": "Cafés & Desserts",
       "name": "Yiu Ice Cream (Nang Ngam Road)",
       "description": "Iconic traditional coconut ice cream since 1933 with classic toppings such as red bean and taro.",
-      "address": "Opposite Nang Ngam Shrine, Bo Yang, Mueang Songkhla",
+      "address": "Opposite Nang Ngam Shrine, Bo Yang, Mueang Songkhla 90000",
       "phone": "",
       "hours": "Approx. 10:00–16:00 (sells out fast)",
       "images": {
@@ -2111,13 +2122,13 @@
       "phone": "",
       "hours": "เช้า–บ่าย (ขายหมดเร็ว)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-roti-nang-ngam.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-roti-nang-ngam-1.jpg",
+          "/images/placeholder/food-roti-nang-ngam-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d309.57201112202836!2d100.59080618584642!3d7.195300812144435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMTEnNDMuMSJOIDEwMMKwMzUnMjcuMSJF!5e1!3m2!1sth!2sth!4v1768116610806!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2177,13 +2188,13 @@
       "phone": "",
       "hours": "ประมาณ 08:00–17:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-lert-bakery.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-lert-bakery-1.jpg",
+          "/images/placeholder/food-lert-bakery-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39625.361715108025!2d100.55700667910158!3d7.193648000000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33122a5f618d%3A0x591ab63d1aa46726!2z4LmA4Lil4Li04Lio4LmA4Lia4LmA4LiB4Lit4Lij4Li14LmIIOC4guC4meC4oeC5hOC4guC5iOC5gOC4leC4suC4luC5iOC4suC4mSAoTGVydCBCYWtlcnkp!5e1!3m2!1sth!2sth!4v1768116685975!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2243,13 +2254,13 @@
       "phone": "081-898-7656",
       "hours": "ทุกวัน 11:00–20:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-nai-roo-noodle-shop.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-nai-roo-noodle-shop-1.jpg",
+          "/images/placeholder/food-nai-roo-noodle-shop-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39625.361715108025!2d100.55700667910158!3d7.193648000000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33122a5f618d%3A0x591ab63d1aa46726!2z4LmA4Lil4Li04Lio4LmA4Lia4LmA4LiB4Lit4Lij4Li14LmIIOC4guC4meC4oeC5hOC4guC5iOC5gOC4leC4suC4luC5iOC4suC4mSAoTGVydCBCYWtlcnkp!5e1!3m2!1sth!2sth!4v1768116685975!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2309,13 +2320,13 @@
       "phone": "090-246-6987",
       "hours": "07:00–21:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-siri-pork-blood-soup-siri-tom-lued-moo.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-siri-pork-blood-soup-siri-tom-lued-moo-1.jpg",
+          "/images/placeholder/food-siri-pork-blood-soup-siri-tom-lued-moo-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.261198409756!2d100.4746342!3d6.9994047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d29c7a370ce77%3A0x45160f77efb6e9cb!2z4Lio4Li04Lij4Li0IOC4leC5ieC4oeC5gOC4peC4t-C4reC4lOC4q-C4oeC4uSDopb_ph4znjKrooYDmsaTkuInom4vnjKrogonnsqU!5e1!3m2!1sth!2sth!4v1768116741379!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2375,13 +2386,13 @@
       "phone": "083-196-8924",
       "hours": "17:00–21:00 (หยุดทุกวันเสาร์)",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-pne-crispy-chicken.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-pne-crispy-chicken-1.jpg",
+          "/images/placeholder/food-pne-crispy-chicken-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.102975219356!2d100.4908342!3d7.014290099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d29a96f3468b3%3A0x6bce1d14480021be!2z4Lij4LmJ4Liy4LiZ4LmE4LiB4LmI4LiB4Lij4Lit4Lia4Lie4Li14LmI4LmA4LiZ4LmI!5e1!3m2!1sth!2sth!4v1768116772942!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2441,13 +2452,13 @@
       "phone": "",
       "hours": "ช่วงสายถึงบ่าย",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-je-moi-steamed-pork-balls.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-je-moi-steamed-pork-balls-1.jpg",
+          "/images/placeholder/food-je-moi-steamed-pork-balls-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4953.127288466557!2d100.58974599999999!3d7.197581000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMTEnNTEuMyJOIDEwMMKwMzUnMjMuMSJF!5e1!3m2!1sth!2sth!4v1768116798801!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2497,72 +2508,6 @@
     }
   },
   {
-    "id": "tao-kua-pa-juab",
-    "rating": null,
-    "th": {
-      "catagorie": "สตรีทฟู้ดเจ้าเด็ด และร้านอาหารพื้นเมืองดั้งเดิม",
-      "name": "เถ้าคั่ว ป้าจวบ",
-      "description": "เถ้าคั่วก๋วยเตี๋ยวผัดแห้งโบราณ ใส่กระดูกหมูและเครื่องใน เส้นผัดหอมกรอบ",
-      "address": "ซอยยะหริ่ง (หลังศาลหลักเมือง) ต.บ่อยาง อ.เมืองสงขลา",
-      "phone": "",
-      "hours": "ประมาณ 10:00–15:00",
-      "images": {
-        "cover": "/images/placeholder/",
-        "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
-        ]
-      },
-      "embed": "",
-      "recommands": [
-        {
-          "th": "",
-          "en": ""
-        },
-        {
-          "th": "",
-          "en": ""
-        }
-      ],
-      "tags": [
-        "เถ้าคั่ว",
-        "ก๋วยเตี๋ยวผัด",
-        "ท้องถิ่น"
-      ]
-    },
-    "en": {
-      "catagorie": "Street Food & Traditional Local Stalls",
-      "name": "Tao Kua Pa Juab",
-      "description": "Old-style stir-fried noodle with pork bones and offal, fragrant and dry-style — local classic.",
-      "address": "Soi Yaharin (behind the City Pillar), Bo Yang, Mueang Songkhla",
-      "phone": "",
-      "hours": "Approx. 10:00–15:00",
-      "images": {
-        "cover": "/images/placeholder/",
-        "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
-        ]
-      },
-      "embed": "",
-      "recommands": [
-        {
-          "th": "",
-          "en": ""
-        },
-        {
-          "th": "",
-          "en": ""
-        }
-      ],
-      "tags": [
-        "Stir-fried noodle",
-        "Local classic",
-        "Fragrant"
-      ]
-    }
-  },
-  {
     "id": "nang-ngam-satay",
     "rating": null,
     "th": {
@@ -2573,13 +2518,13 @@
       "phone": "",
       "hours": "ประมาณ 09:00–15:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-nang-ngam-satay.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-nang-ngam-satay-1.jpg",
+          "/images/placeholder/food-nang-ngam-satay-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4953.257334656835!2d100.5945034!3d7.1856592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d3300595a5175%3A0x852f68ade1c137a2!2z4Lij4LmJ4Liy4LiZ4Lir4Lih4Li54Liq4Liw4LmA4LiV4LmK4Liw4LiZ4Liy4LiH4LiH4Liy4LihKOC4luC4meC4meC5gOC4leC4suC4reC4tOC4kCk!5e1!3m2!1sth!2sth!4v1768116898014!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2639,13 +2584,13 @@
       "phone": "",
       "hours": "เช้า–เที่ยง",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-pig-tail-noodle-nang-ngam-road.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-pig-tail-noodle-nang-ngam-road-1.jpg",
+          "/images/placeholder/food-pig-tail-noodle-nang-ngam-road-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4953.15769155513!2d100.5910701!3d7.194795600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d331a1940e7df%3A0x57a21acdb53335fb!2z4LiB4LmL4Lin4Lii4LmA4LiV4Li14LmL4Lii4Lin4Lir4Liy4LiH4Lir4Lih4Li5!5e1!3m2!1sth!2sth!4v1768116915267!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2705,13 +2650,13 @@
       "phone": "",
       "hours": "06:00–12:00",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-ko-tee-ocha.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-ko-tee-ocha-1.jpg",
+          "/images/placeholder/food-ko-tee-ocha-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4955.219937486246!2d100.47105219999999!3d7.003289499999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d292212d13cf9%3A0x19e2d6b6185acb89!2z4LmC4LiB4LiV4Li14LmL4LmC4Lit4LiK4Liy!5e1!3m2!1sth!2sth!4v1768116933399!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
@@ -2768,16 +2713,16 @@
       "name": "บะกุ๊ดเต๋ เซ่งงี่ (หาดใหญ่)",
       "description": "บะกุ๊ดเต๋สูตรกวางตุ้ง-มาเลย์ น้ำซุปยาจีนเข้มข้น เปิดมาตั้งแต่ปี 2520",
       "address": "ย่านเสน่หานุสรณ์ หาดใหญ่ จ.สงขลา",
-      "phone": "",
+      "phone": "074-521-500",
       "hours": "",
       "images": {
-        "cover": "/images/placeholder/",
+        "cover": "/images/placeholder/cover-bak-kut-teh-seng-ngi-hat-yai.jpg",
         "foods": [
-          "/images/placeholder/",
-          "/images/placeholder/"
+          "/images/placeholder/food-bak-kut-teh-seng-ngi-hat-yai-1.jpg",
+          "/images/placeholder/food-bak-kut-teh-seng-ngi-hat-yai-2.jpg"
         ]
       },
-      "embed": "",
+      "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2084.8761518494807!2d100.32184876297471!3d6.667811966810561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304cc0ebfd1b0301%3A0x61bc7ce8cbded440!2z4Lia4Liw4LiB4Li44LmK4LiU4LmA4LiV4LmL!5e1!3m2!1sth!2sth!4v1768117136822!5m2!1sth!2sth",
       "recommands": [
         {
           "th": "",
