@@ -3,7 +3,7 @@
 // Debug marker (helps confirm the browser actually loaded the latest file)
 console.log("[SGF] app.js loaded (v4 category+favorite fix)");
 
-const DATA_URL = "../data/restaurants.json";
+const DATA_URL = "./data/restaurants.json";
 
 /** Google App Script Web App (JSONP) */
 const GAS_URL = "https://script.google.com/macros/s/AKfycbx_HyV7KrDo2oNTauO-lax0V0-10O0Ys0jvsIl3lYpG_1GXbCUMzZoLu9FQMDYIRtpzjw/exec";
