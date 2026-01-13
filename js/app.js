@@ -3,7 +3,7 @@
 // Debug marker (helps confirm the browser actually loaded the latest file)
 console.log("[SGF] app.js loaded (v4 category+favorite fix)");
 
-const DATA_URL = "./data/restaurants.json";
+const DATA_URL = "../data/restaurants.json";
 
 /** Google App Script Web App (JSONP) */
 const GAS_URL = "https://script.google.com/macros/s/AKfycbx_HyV7KrDo2oNTauO-lax0V0-10O0Ys0jvsIl3lYpG_1GXbCUMzZoLu9FQMDYIRtpzjw/exec";
@@ -392,7 +392,7 @@ function renderCards(list) {
     card.className = "glass soft rounded-3xl overflow-hidden border border-white/10 hover:border-white/20 cursor-pointer";
     card.innerHTML = `
       <div class="relative">
-        <img class="h-44 w-full object-cover" src="${d.images?.cover || ""}" alt="cover" />
+        <img class="h-44 w-full object-cover" src="${d.images?.cover || ""}" alt="cover" loading="lazy" decoding="async"/>
         <button data-fav="${r.id}"
           class="absolute top-3 right-3 glass soft rounded-full px-3 py-2 text-sm border border-white/10 hover:border-[var(--brand)]">
           ${isFav ? "♥" : "♡"}
@@ -534,7 +534,7 @@ function renderDetail(id) {
       const img = document.createElement("img");
       img.src = src;
       img.alt = "food";
-      img.className = "w-full h-40 object-cover rounded-2xl border border-white/10";
+      img.className = `w-full h-40 object-cover rounded-2xl border border-white/10 loading="lazy" decoding="async"`;
       detailFoods.appendChild(img);
     });
   }
